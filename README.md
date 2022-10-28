@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jerome, fancy meeting you here.
-- 👀 I am into SoC, IoC, Micro Controller, FPGA, and robotics.
-- 🌱 I’m currently a practitioner, a builder, a creator of Machine Learning on the Cloud
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a practitioner and a builder of Machine Learning on the Cloud
+- - 👀 I am also into SoC, IoC, Micro Controller, FPGA, and robotics.
+- 💞️ I’m looking to collaborate on related projects
+- 📫 Reach me on linkedin (same handle)
 
 
 <!---
